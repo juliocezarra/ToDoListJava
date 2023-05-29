@@ -11,7 +11,7 @@
             
             <h1>Lista de tarefas</h1>
             
-		<div  class="task" >
+		<div class="task" >
                     <div>
                     <input type="checkbox" >
                     </div>
@@ -21,7 +21,7 @@
                     </div>    
                     <div>
                       <a href="#">&#9997;</a>
-                      <a>&#128465;</a>
+                      <a href="#">&#128465;</a>
                     </div>
 		</div>
             
@@ -30,13 +30,13 @@
                     <input type="checkbox" >
                     </div>
                     <div>
-                      <div class="task-title">Tarefa 1</div>
-                      <div class="task-description">lavar a louça.</div>  
+                      <div class="task-title">Tarefa 2</div>
+                      <div class="task-description">Lavar o carro</div>  
                     </div> 
                     
                     <div>
                         <a href="#">&#9997;</a>
-                      <a>&#128465;</a>
+                      <a href="#">&#128465;</a>
                     </div>
 		</div>
             
@@ -45,12 +45,12 @@
                     <input type="checkbox" >
                     </div>
                     <div>
-                      <div class="task-title">Tarefa 1</div>
-                      <div class="task-description">lavar a louça.</div>  
+                      <div class="task-title">Tarefa 3</div>
+                      <div class="task-description">Ir ao mercado</div>  
                     </div>  
                     <div>
                       <a href="#">&#9997;</a>
-                      <a>&#128465;</a>
+                      <a href="#">&#128465;</a>
                     </div>
 		</div>
             
@@ -59,12 +59,12 @@
                     <input type="checkbox" >
                     </div>
                     <div>
-                      <div class="task-title">Tarefa 1</div>
-                      <div class="task-description">lavar a louça.</div>  
+                      <div class="task-title">Tarefa 4</div>
+                      <div class="task-description">Buscar eloisa</div>  
                     </div>
                     <div>
                       <a href="#">&#9997;</a>
-                      <a>&#128465;</a>
+                      <a href="#">&#128465;</a>
                     </div>
 		</div>
             
@@ -73,12 +73,12 @@
                     <input type="checkbox" >
                     </div>
                     <div>
-                      <div class="task-title">Tarefa 1</div>
-                      <div class="task-description">lavar a louça.</div>  
+                      <div class="task-title">Tarefa 5</div>
+                      <div class="task-description">Pagar contas</div>  
                     </div> 
                     <div>
                       <a href="#">&#9997;</a>
-                      <a>&#128465;</a>
+                      <a href="#">&#128465;</a>
                     </div>
 		</div>
                 

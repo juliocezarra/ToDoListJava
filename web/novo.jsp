@@ -1,4 +1,3 @@
-<%@page import="model.ConectarDB"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.sql.Connection"%>
 <%@page import="java.sql.PreparedStatement"%>
@@ -14,7 +13,7 @@
 <body class="custom-body">       
     <div class="task-list">
         <h1>Criar nova tarefa!</h1>
-        <form class="form1" method="post" action="criarTarefa.jsp">
+        <form class="form1" method="get" action="criarTarefa.jsp">
             <div class="input-group">
                 <label class="input-label" for="taskName">Título</label> 
                 <input maxlength="100" type="text" name="taskName">
@@ -24,9 +23,11 @@
                 <textarea maxlength="400" name="taskDescription"></textarea>
             </div>
             <div class="buttonSave">
-                <button type="submit">Salvar</button>
+                <button type="submit">Salvar</button> 
             </div>
+            
         </form>
+        
     </div>
 </body>
 </html>
