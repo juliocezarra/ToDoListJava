@@ -83,7 +83,9 @@
 		</div>
                 
             <div>
-                <input class="buttonS" type="submit" value="Nova Tarefa" />
+                <button class="buttonS" onclick="window.location.href='novo.jsp'">Nova Tarefa</button>
+
+
             </div>
 	</div>
 </body>
